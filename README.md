@@ -24,7 +24,7 @@ Class: 1 for fraudulent transactions, 0 otherwise (target variable)
 Usage
 To use this project:
 
-Clone the repository: git clone https://github.com/yourusername/creditcard-fraud-detection.git
+Clone the repository: git clone https://github.com/keshavsrini/creditcard-fraud-detection.git
 Install dependencies: pip install -r requirements.txt
 Run the Jupyter notebook credit_card_fraud_detection.ipynb to see the data preprocessing, model training, and evaluation steps.
 Modify the notebook or scripts to fit your own dataset or experiment with different algorithms.
